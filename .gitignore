@@ -9,8 +9,8 @@
 *.user
 *.userosscache
 *.sln.docstates
-.gitignore/
-.gitattributes/
+.gitignore
+.gitattributes
 pdf_files/
 
 
