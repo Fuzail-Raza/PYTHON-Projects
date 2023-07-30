@@ -1,3 +1,5 @@
+
+
 import win32com.client
 names=["Fuzail","Raza","Attari"]
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
